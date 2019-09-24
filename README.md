@@ -1,1 +1,1 @@
-Hello reader! This project will be uploaded within the next few days. Cleaning it up to be scrutinized by the general public. 
+Hey there! This is the winning project for the "Community" category at the HackTheU hackathon. It uses the robinhood API to automate trading decisions for multiple parallel models. Before you judge it *too* harshly, keep in mind some of this code was written at 4:00 am and I could barely even keep my eyes open.
